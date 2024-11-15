@@ -1,0 +1,13 @@
+.footer-container {
+    display: flex;
+    flex-direction: column;
+    padding: 1rem;
+    margin: 1rem;
+    border-radius: 10px;
+    box-shadow: 0 0 8px green;
+}
+
+.footer-title {
+    font-size: 25px;
+    padding-bottom: 1rem;
+}

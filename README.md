@@ -1,5 +1,29 @@
 # Getting Started with Create React App
 
+- To create a start application template use `npx create-react-app app-name`
+- Most files of React are created with this extension filename.jsx
+# -What is JSX?
+- JSX (JavaScript Extensible Markup Language) -> simple meaning JavaScript with HTML Combined in a file
+
+# Basics of a component
+- Your component should always look like this as er basic rules, see example below: -
+
+```
+function Header() {
+    return(
+        <div></div>
+    )
+}
+
+export default Header;
+```
+
+- Note:- Always name your function start with capital letter and also your file name should be start from capital letter in case of components file and also in containers/pages file
+
+# - Props in React
+- Props in react is a method to pass values from parent component to child component
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
