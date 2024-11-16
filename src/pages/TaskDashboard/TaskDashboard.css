@@ -1,4 +1,38 @@
 .task-dashboard-container {
     display: flex;
+    flex-direction: column;
+    min-height: 78%;
+}
+
+.task-dashboard-search-container {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.task-dashboard-input {
+    padding: 8px 1rem;
+    box-shadow: 0 0 6px green;
+    border: none;
+    border-radius: 8px;
+    outline: none;
+}
+
+.task-dashboard-button {
+    box-shadow: 0 0 6px green;
+    background-color: transparent;
+    padding: 8px 1rem;
+    border-radius: 8px;
+    border: none;
+    margin-left: 1rem;
+    cursor: pointer;
+}
+
+.task-dashboard-button:hover{
+    box-shadow: 0 0 12px green;
+}
+
+.task-board-list-container {
+    display: flex;
     flex-wrap: wrap;
 }
