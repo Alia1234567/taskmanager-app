@@ -1,3 +1,23 @@
+Task Management Application
+Introduction
+This Task Management Application is a user-friendly tool designed to organize and prioritize tasks efficiently.
+It features a dashboard, task management functionality, priority levels, and advanced search and filtering options, making
+it ideal for personal and professional use.
+
+Features
+Dashboard: Provides a clear overview of all tasks.
+Task Management: Add, edit, delete, and mark tasks as completed.
+Priority Levels: Assign priority levels to tasks for better organization.
+Search and Filter: Quickly find tasks using keywords or filters.
+Technologies Used
+Frontend: [React.js/Your Framework]
+Backend: [Node.js/Express.js or Your Stack]
+Database: [MongoDB/PostgreSQL/SQLite or Your Choice]
+Styling: [CSS/Tailwind/Bootstrap or Your Choice]
+
+
+
+
 # Getting Started with Create React App
 
 - To create a start application template use `npx create-react-app app-name`
